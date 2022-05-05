@@ -75,16 +75,16 @@ experiences:
           
 assignments:
 - title: Instagram Post
-  link: 
+  link: https://github.com/Rozpide/simple-Instagram-feed
   
   tagline: "Realizado login template usando Bootstrap, CSS y HTML."
 
 - title: Proyecto colaborativo de diseño de pagina web
-  link: 
+  link: https://rozpide-exercisecollabo-w7b3cmwn0co.ws-eu44.gitpod.io/
   tagline: "Primer proyecto colaborativo usando Github y Gitpod. Para realizar el template se han utilizado CSS, HTML y Bootstrap"
 
 - title: Instagram Feed - Bootstrap
-  link: 
+  link: https://github.com/Rozpide/Feed-de-instagram-240422
   tagline: "Website template realizado usando Bootstrap"
 
 skills:
